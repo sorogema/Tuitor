@@ -1,0 +1,1 @@
+This repo is just for me to git all the tutorial that i have practiced.
